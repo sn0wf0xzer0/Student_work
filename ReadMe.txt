@@ -1,0 +1,1 @@
+This repository contains various class assignments, and one day I might just need to remember how I've done some of these things.
